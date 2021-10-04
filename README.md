@@ -1,8 +1,8 @@
 # Doctor Assembly
 
-In the project directory [Doctor Assembly](https://github.com/ProgrammingHeroWC4/review-website-PrantoshBepari360)
+In the project directory [Technical Education](https://github.com/ProgrammingHeroWC4/review-website-PrantoshBepari360)
 
-In the project side [doctor-assembly.netlify.app](https://education-technical-school-and-collage.netlify.app/)
+In the project side [Education Technical School and Collage](https://education-technical-school-and-collage.netlify.app/)
 
 - Technical education is an education that can help people build their lives Whatever else he does, he can make his own future .
 
