@@ -1,0 +1,33 @@
+.header {
+  height: 300px;
+  background-image: url("https://www.madaripurtsc.gov.bd/assets/images/slide/Banner%202610e1995f1e28.jpg");
+}
+.bg {
+  background-color: lightgray;
+}
+.school-name {
+  margin: 0px;
+  padding-bottom: 10px;
+  font-size: 48px;
+  font-weight: 600;
+  color: #1a1b1ad0;
+}
+.future {
+  color: #2058ffa6;
+}
+.distic {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 30px;
+}
+.distic i {
+  font-size: 20px;
+  margin-right: 10px;
+  color: #2058ffa6;
+}
+.distic-name {
+  margin: 0px;
+  font-size: 32px;
+  font-weight: 500;
+}

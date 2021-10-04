@@ -1,0 +1,22 @@
+.footer-bg {
+  background-color: #355bccdf;
+}
+.footer {
+  width: 70%;
+  margin: 0 auto;
+  display: flex;
+}
+ul {
+  padding: 0px;
+  margin-left: auto;
+}
+ul li {
+  list-style-type: none;
+  margin: 20px;
+}
+ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 400;
+}
