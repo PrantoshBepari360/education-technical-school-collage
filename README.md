@@ -1,6 +1,6 @@
 # Doctor Assembly
 
-In the project directory [Technical Education](https://github.com/ProgrammingHeroWC4/review-website-PrantoshBepari360)
+In the project directory [Technical Education](https://github.com/PrantoshBepari360/education-technical-school-collage)
 
 In the project side [Education Technical School and Collage](https://education-technical-school-and-collage.netlify.app/)
 
